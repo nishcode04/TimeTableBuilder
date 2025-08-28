@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Map;
-import java.swing.*;
+import javax.swing.*;
 // Main Class
 public class TimeTableBuilder {
     public static void main(String[] args) {
